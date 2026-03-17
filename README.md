@@ -5,7 +5,8 @@ This dashboard provides a detailed analysis of education data including student 
 
 ## 🛠 Tools Used
 - Microsoft Power BI (for visualization and dashboard creation)
-- Excel (`clean_education.xlsx`) for data cleaning and preparation
+- Python – For data cleaning and analysis (read education.csv and processed into  clean_education.xlsx)
+- Excel – Cleaned dataset (clean_education.xlsx) for analysis and dashboard input
 
 ## 🖥 Dashboard Features
 - **KPI Cards:** Quick overview of key metrics like total students, average marks.
@@ -47,3 +48,4 @@ Download the `.pbix` file and open it in Power BI Desktop to explore full intera
 - Dashboard Design & Interactivity  
 - KPI & Metrics Presentation  
 - Insight Generation
+- Data Story Telling
