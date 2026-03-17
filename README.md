@@ -33,8 +33,8 @@ This dashboard provides a detailed analysis of education data including student 
    - Overall, **pass and fail counts are almost equal**
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard.png)
-![Dashboard Details Preview](details.png)
+![Dashboard Preview](Dashboard.png)
+![Dashboard Details Preview](Details.png)
 
 ## 🔗 Interactive Dashboard
 Download the `.pbix` file and open it in Power BI Desktop to explore full interactivity — filters, KPI cards, and charts are fully functional.
